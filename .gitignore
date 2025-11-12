@@ -1,0 +1,6 @@
+/Listings
+/Objects
+*.bak
+*.uvgui.*
+*.uvopt
+.idea
